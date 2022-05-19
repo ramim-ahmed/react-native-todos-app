@@ -1,6 +1,6 @@
 # react-native-todos-app
 
 <div>
-<img src='./assets/capture.PNG'/>
+<img src='./assets/Capture.PNG'/>
 
 <div>
